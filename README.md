@@ -18,7 +18,7 @@
 
 ## Redes 👋
 <a href="www.linkedin.com/in/néstor-josé-zambrano-yanes-baba64157" target="_blank"> <img src="https://github.com/user-attachments/assets/4306a494-61d9-42c6-8bc3-ac3404abbd90" alt="linkedin" width="60" height="60"/> </a>
-<a href="mailto:info@misitio.com" target="_blank"> <img src="https://github.com/user-attachments/assets/8fe80c21-df3c-4c01-8b76-af8b0c33ba50" alt="gmail-rem" width="60" height="60"/> </a>
+<a href="Nestor:nejozaya1980@gmail.com" target="_blank"> <img src="https://github.com/user-attachments/assets/8fe80c21-df3c-4c01-8b76-af8b0c33ba50" alt="gmail-rem" width="60" height="60"/> </a>
 
 
 
