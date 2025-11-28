@@ -4,7 +4,7 @@
 
 <p align="left">
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://cdn.jsdelivr.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="git" width="40" height="40"/> </a>
 <a href="https://medium.com/better-programming/using-python-pandas-with-excel-d5082102ca27" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Dxp_PN37viCezdWTEGMSQQ.jpeg" alt="git" width="40" height="40"/> </a>
