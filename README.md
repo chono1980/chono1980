@@ -16,9 +16,8 @@
 <a href="https://docs.python.org/es/3/library/tkinter.html" target="_blank"> <img src="https://github.com/user-attachments/assets/45386f71-ae5a-46be-bbd5-cf841b6f94b0" alt="tk-rem" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://github.com/user-attachments/assets/e7343852-7da7-4d40-8789-c3a26435783b" alt="flask-rem" width="40" height="40"/> </a>
 
-## Redes 👋
-<a href="www.linkedin.com/in/néstor-josé-zambrano-yanes-baba64157" target="_blank"> <img src="https://github.com/user-attachments/assets/4306a494-61d9-42c6-8bc3-ac3404abbd90" alt="linkedin" width="60" height="60"/> </a>
-<a href="Nestor:nejozaya1980@gmail.com" target="_blank"> <img src="https://github.com/user-attachments/assets/8fe80c21-df3c-4c01-8b76-af8b0c33ba50" alt="gmail-rem" width="60" height="60"/> </a>
+## Echa un vistazo a mis proyectos aquí. 👋
+<a href="https://customtkinter.tomschimansky.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/73b4ec2e-017a-4081-bd43-85d909674e7f" alt="flecha" width="50" height="60"/> </a>
 
 
 
