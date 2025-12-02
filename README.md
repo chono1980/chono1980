@@ -4,6 +4,24 @@
 
 <p align="left">
 
+🐍 Profesional de Sistemas & Tecnología | Transicionando a Especialista en Python
+Con una sólida trayectoria en Sistemas y Tecnología, mi enfoque ha sido siempre la eficiencia operativa y la optimización de procesos.
+
+He dedicado mi carrera a:
+
+Diseñar y evaluar sistemas (inventario, ganancias) para reducir gastos y mejorar la gestión de recursos.
+
+Implementar tecnología y mejores prácticas para lograr precisión y visibilidad operativa.
+
+Facilitar la toma de decisiones estratégica a través de soluciones tecnológicas.
+
+Actualmente, estoy haciendo una transición proactiva hacia Python. Veo este lenguaje como la herramienta ideal para aplicar mi background de negocio y tecnología y resolver problemas complejos.
+
+Busco una oportunidad donde pueda aportar mis conocimientos probados en la optimización operativa, mientras me desarrollo y crezco como especialista en Python.
+
+Estoy activamente construyendo y documentando mis proyectos de Python aquí en GitHub. ¡Estoy abierto a conectar, aprender y colaborar!
+
+
 ## Utilidades del Developer Backend 🚀
 <a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://cdn.jsdelivr.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="git" width="40" height="40"/> </a>
