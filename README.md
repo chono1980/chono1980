@@ -17,7 +17,7 @@
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://github.com/user-attachments/assets/e7343852-7da7-4d40-8789-c3a26435783b" alt="flask-rem" width="40" height="40"/> </a>
 
 ## Echa un vistazo a mis proyectos aquí. 👋
-<a href="https://customtkinter.tomschimansky.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/73b4ec2e-017a-4081-bd43-85d909674e7f" alt="flecha" width="50" height="60"/> </a>
+
 
 
 
