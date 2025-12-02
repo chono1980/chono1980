@@ -4,7 +4,7 @@
 
 <p align="left">
 
-## Utilidades del Developer Backend 👋
+## Utilidades del Developer Backend 🚀
 <a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://cdn.jsdelivr.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="git" width="40" height="40"/> </a>
@@ -15,6 +15,14 @@
 <a href="https://customtkinter.tomschimansky.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/b63d0380-1e28-4c6a-82d4-90ae73821114" alt="customkinter-rem" width="40" height="40"/> </a>
 <a href="https://docs.python.org/es/3/library/tkinter.html" target="_blank"> <img src="https://github.com/user-attachments/assets/45386f71-ae5a-46be-bbd5-cf841b6f94b0" alt="tk-rem" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://github.com/user-attachments/assets/e7343852-7da7-4d40-8789-c3a26435783b" alt="flask-rem" width="40" height="40"/> </a>
+
+##  Acelerando hacia la Ciencia de Datos ⚡
+
+🧠   Aprendiendo actualmente: Ciencia de Datos, con foco en ML y visualización de datos.
+
+🚀   Próximo objetivo: Lanzar mi primer proyecto de data science para finales de mes.
+
+💡   Intereses: Análisis de mercado, IA y automatización. ¡Conectemos si compartes estos intereses!
 
 ## Echa un vistazo a mis proyectos aquí. 👋
 
